@@ -1,3 +1,4 @@
 /FizzBuzz.iml
 /.idea/
-/*.class
+/out/
+/src/FizzBuzzMain.class
